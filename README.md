@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100px" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" align="center" alt="Delphi" />
-  <h1 align="center">Códigos em Delphi</h1>
+  <h1 align="center">Delphi - Projetos</h1>
   <p align="center"></p>
 </p>
 
